@@ -13,6 +13,7 @@ phases:
 artifacts:
     files:
         - index.html
+        - scripts/**/*
     discard-paths: yes
 
             
